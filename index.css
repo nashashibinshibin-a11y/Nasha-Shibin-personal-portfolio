@@ -535,7 +535,7 @@ section {
 
 /* HUGE Name — Chrome Treatment */
 .hero-name {
-  font-size: clamp(4rem, 11vw, 9rem);
+  font-size: clamp(4.5rem, 12vw, 10rem);
   font-weight: 800;
   line-height: 0.95;
   letter-spacing: -0.04em;
